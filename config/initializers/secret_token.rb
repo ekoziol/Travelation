@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Travelation::Application.config.secret_key_base = '66a8a4e385e5d645953a5a9f6b3b9fd426f0e4d47be3a7a651d384826420746a9da712de0b2f8f0f034c1c7c9ea0bd21e855afdfbbd2597eb0846b0a42c6b38e'
+Travelation::Application.config.secret_key_base = 'c3eda4a458c058ec8419c0accb6bd3910085e9c8622d6f3ce32179fc9e5303bd530a9c9e914cfbfcabed68fe12f384b9aee2d6c5a471358d4e21728a68d0e3d3'
